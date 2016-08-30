@@ -16,13 +16,13 @@ Website
 Mailing Lists
 =============
 
-Please see the developers' list at
+Developers' list at
 https://mail.python.org/mailman/listinfo/neuroimaging
 
-Please see the users' forum at
+Users' forum at
 https://neurostars.org
 
-Please join the gitter chatroom `here <https://gitter.im/nipy/dipy>`_.
+The gitter chatroom  https://gitter.im/nipy/dipy.
 
 Code
 ====
